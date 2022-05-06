@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    background-color: rgba(212, 49, 49, 0.774);
+    font-size: 60px;
+}
+h5 {
+    color: black;
+    background-color: rgba(27, 163, 32, 0.62);
+    font-size: 20px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+p,
+li,
+.list-head {
+    text-align: left;
+}
